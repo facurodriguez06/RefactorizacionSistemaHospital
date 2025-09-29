@@ -1,4 +1,4 @@
-#Sistema de Hospital con Lombok
+# Sistema de Hospital con Lombok
 
 Este proyecto corresponde a un sistema de gestión hospitalaria desarrollado en Java, orientado a la administración de pacientes, médicos, salas, departamentos, citas médicas, entre otras.
 
